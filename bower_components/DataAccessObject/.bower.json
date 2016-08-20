@@ -1,0 +1,13 @@
+{
+  "name": "DataAccessObject",
+  "homepage": "https://github.com/denizschmid/DataAccessObject",
+  "_release": "bdf662c26b",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "bdf662c26bcfa9d21b21313f8f3e059a63f1d8fd"
+  },
+  "_source": "git://github.com/denizschmid/DataAccessObject.git",
+  "_target": "*",
+  "_originalSource": "denizschmid/DataAccessObject"
+}

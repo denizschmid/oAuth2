@@ -1,0 +1,7 @@
+{
+	"name": "oauth2",
+	"dependencies": {
+		"DataAccessObject": "denizschmid/DataAccessObject",
+		"DateTime": "denizschmid/DateTime"
+    }
+}

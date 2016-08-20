@@ -1,0 +1,13 @@
+{
+  "name": "DateTime",
+  "homepage": "https://github.com/denizschmid/DateTime",
+  "_release": "5ccdbe4a44",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "5ccdbe4a444a40e5bf9f12a846e1b9af5ff5885c"
+  },
+  "_source": "git://github.com/denizschmid/DateTime.git",
+  "_target": "*",
+  "_originalSource": "denizschmid/DateTime"
+}
